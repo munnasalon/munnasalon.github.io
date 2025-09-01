@@ -251,7 +251,7 @@ ul {
     justify-content: center;
     text-align: center;
     background-color: var(--primary-bg);
-    background-image: linear-gradient(rgba(40, 40, 40, 0.8), rgba(40, 40, 40, 0.8)), url('john-karlo-mendoza-idzUojjazCg-unsplash.jpg'); 
+    background-image: linear-gradient(rgba(40, 40, 40, 0.8), rgba(40, 40, 40, 0.8)), url('images/hero-bg.jpg'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
